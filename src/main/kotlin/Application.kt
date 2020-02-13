@@ -1,3 +1,5 @@
+package com.task.ktorSimpleGithubAuthorization
+
 import io.ktor.application.*
 import io.ktor.auth.*
 import io.ktor.client.HttpClient

@@ -6,7 +6,11 @@ plugins {
     application
 }
 
-group = "org.example"
+application {
+    mainClassName = "io.ktor.server.netty.EngineMain"
+}
+
+group = "com.task"
 version = "1.0-SNAPSHOT"
 
 repositories {

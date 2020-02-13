@@ -1,4 +1,4 @@
-rootProject.name = "ktor-simple-github-autorization"
+rootProject.name = "ktorSimpleGithubAuthorization"
 
 pluginManagement {
     resolutionStrategy {
